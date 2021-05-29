@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="102.5160" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-05-18T17:03:17" tests="0" file="cypress/integration/page-objects.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Testsuite" timestamp="2021-05-18T17:03:17" tests="7" time="102.5160" failures="0">
+    <testcase name="Testsuite Create a new client" time="18.2150" classname="Create a new client">
+    </testcase>
+    <testcase name="Testsuite Edit last client" time="20.5200" classname="Edit last client">
+    </testcase>
+    <testcase name="Testsuite Delete last client" time="11.3190" classname="Delete last client">
+    </testcase>
+    <testcase name="Testsuite Create a new room" time="16.6690" classname="Create a new room">
+    </testcase>
+    <testcase name="Testsuite Edit last room" time="17.2340" classname="Edit last room">
+    </testcase>
+    <testcase name="Testsuite Delete last room" time="9.0050" classname="Delete last room">
+    </testcase>
+    <testcase name="Testsuite Logout" time="9.5540" classname="Logout">
+    </testcase>
+  </testsuite>
+</testsuites>
